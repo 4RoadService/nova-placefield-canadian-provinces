@@ -398,7 +398,7 @@ export default {
                 },
                 NL: {
                     count: '55',
-                    name: 'Newfoundland',
+                    name: 'Newfoundland and Labrador',
                     abbr: 'NL',
                 },
                 NT: {

@@ -423,7 +423,7 @@ export default {
                 },
                 QC: {
                     count: '60',
-                    name: 'Quebec',
+                    name: 'Québec',
                     abbr: 'QC',
                 },
                 SK: {
